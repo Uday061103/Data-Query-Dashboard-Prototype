@@ -23,7 +23,7 @@ A React-based dashboard prototype for an AI Analytics tool that demonstrates que
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Uday061103/Data-Query-Dashboard-Prototype>
 cd ai-query-dashboard
 ```
 
@@ -70,7 +70,7 @@ The application uses Redux Toolkit for state management with:
 
 ## Deployment
 
-The project is deployed on [Platform Name] and can be accessed at [URL].
+The project is deployed on [Platform Name] and can be accessed at [[URL](https://data-query-dashboard-prototype.netlify.app/)].
 
 ## Future Improvements
 
